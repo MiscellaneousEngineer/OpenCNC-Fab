@@ -8,3 +8,6 @@ Aiming to feature :
 * Sound dampening
 * A modern and complete user control panel
 * A rigid motion frame capable of sustaining aluminium cutting forces
+
+Here's the recent CAD model : 
+<img width="1550" height="1048" alt="image" src="https://github.com/user-attachments/assets/137c5af4-b2bd-4df3-bc9d-4fc8ace805c1" />
