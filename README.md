@@ -11,3 +11,6 @@ Aiming to feature :
 
 Here's the recent CAD model : 
 <img width="1550" height="1048" alt="image" src="https://github.com/user-attachments/assets/137c5af4-b2bd-4df3-bc9d-4fc8ace805c1" />
+
+Current system diagram :  (WIP)
+<img width="521" height="227" alt="image" src="https://github.com/user-attachments/assets/90911918-4fb4-4aa6-8378-0e069864a543" />
